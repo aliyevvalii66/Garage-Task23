@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\BigonWebApp\BigonWebApp.Business\bin\Debug\net8.0\BigonWebApp.Business.deps.json
+C:\Users\Admin\source\repos\BigonWebApp\BigonWebApp.Business\bin\Debug\net8.0\BigonWebApp.Business.dll
+C:\Users\Admin\source\repos\BigonWebApp\BigonWebApp.Business\bin\Debug\net8.0\BigonWebApp.Business.pdb
+C:\Users\Admin\source\repos\BigonWebApp\BigonWebApp.Business\obj\Debug\net8.0\BigonWebApp.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\BigonWebApp\BigonWebApp.Business\obj\Debug\net8.0\BigonWebApp.Business.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\BigonWebApp\BigonWebApp.Business\obj\Debug\net8.0\BigonWebApp.Business.AssemblyInfo.cs
+C:\Users\Admin\source\repos\BigonWebApp\BigonWebApp.Business\obj\Debug\net8.0\BigonWebApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BigonWebApp\BigonWebApp.Business\obj\Debug\net8.0\BigonWebApp.Business.dll
+C:\Users\Admin\source\repos\BigonWebApp\BigonWebApp.Business\obj\Debug\net8.0\refint\BigonWebApp.Business.dll
+C:\Users\Admin\source\repos\BigonWebApp\BigonWebApp.Business\obj\Debug\net8.0\BigonWebApp.Business.pdb
+C:\Users\Admin\source\repos\BigonWebApp\BigonWebApp.Business\obj\Debug\net8.0\ref\BigonWebApp.Business.dll

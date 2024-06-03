@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BigonWebApp.MVC.props" />
+</Project>

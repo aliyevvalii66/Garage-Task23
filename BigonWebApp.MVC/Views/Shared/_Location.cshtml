@@ -1,0 +1,15 @@
+﻿@{
+    var value = ViewContext.RouteData.Values["Controller"].ToString();
+}
+
+<div class="breadcrumb-area ptb-50">
+    <div class="container">
+        <div class="breadcrumb">
+            <ul>
+                <li><a asp-action="index" asp-controller="home">Home</a></li>
+                <li class="active"><a asp-action="index" asp-controller="@value">@value</a></li>
+            </ul>
+        </div>
+    </div>
+    <!-- Container End -->
+</div>
