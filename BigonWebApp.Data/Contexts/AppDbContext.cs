@@ -1,4 +1,5 @@
-﻿using BigonWebApp.Infrastructure.Entities;
+﻿using BigonWebApp.Data.EFconfigurations;
+using BigonWebApp.Infrastructure.Entities;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -14,7 +15,10 @@ namespace BigonWebApp.Data.Contexts
         public DbSet<Color> Colors { get; set; }
 
 
-
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.ApplyConfigurationsFromAssembly(typeof(ColorCongiguration).Assembly);
+        }
 
 
     }

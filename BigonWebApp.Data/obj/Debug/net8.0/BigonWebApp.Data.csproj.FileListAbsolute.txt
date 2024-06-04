@@ -9,3 +9,10 @@ C:\Users\Admin\source\repos\BigonWebApp\BigonWebApp.Data\obj\Debug\net8.0\BigonW
 C:\Users\Admin\source\repos\BigonWebApp\BigonWebApp.Data\obj\Debug\net8.0\refint\BigonWebApp.Data.dll
 C:\Users\Admin\source\repos\BigonWebApp\BigonWebApp.Data\obj\Debug\net8.0\BigonWebApp.Data.pdb
 C:\Users\Admin\source\repos\BigonWebApp\BigonWebApp.Data\obj\Debug\net8.0\ref\BigonWebApp.Data.dll
+C:\Users\Admin\source\repos\BigonWebApp\BigonWebApp.Data\obj\Debug\net8.0\BigonWebApp.Data.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\BigonWebApp\BigonWebApp.Data\obj\Debug\net8.0\BigonWebApp.Data.sourcelink.json
+C:\Users\Admin\source\repos\BigonWebApp\BigonWebApp.Data\bin\Debug\net8.0\BigonWebApp.Infrastructure.dll
+C:\Users\Admin\source\repos\BigonWebApp\BigonWebApp.Data\bin\Debug\net8.0\BigonWebApp.Infrastructure.pdb
+C:\Users\Admin\source\repos\BigonWebApp\BigonWebApp.Data\obj\Debug\net8.0\BigonWeb.A096E178.Up2Date
+C:\Users\Admin\source\repos\BigonWebApp\BigonWebApp.Data\bin\Debug\net8.0\BigonWebApp.Data.runtimeconfig.json
+C:\Users\Admin\source\repos\BigonWebApp\BigonWebApp.Data\obj\Debug\net8.0\BigonWebApp.Data.genruntimeconfig.cache

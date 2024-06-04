@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\BigonWebApp\BigonWebApp.Infrastructure\obj\Debug\net8.0\BigonWebApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\BigonWebApp\BigonWebApp.Infrastructure\obj\Debug\net8.0\BigonWebApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\BigonWebApp\BigonWebApp.Infrastructure\obj\Debug\net8.0\BigonWebApp.Infrastructure.AssemblyInfo.cs
+C:\Users\Admin\source\repos\BigonWebApp\BigonWebApp.Infrastructure\obj\Debug\net8.0\BigonWebApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BigonWebApp\BigonWebApp.Infrastructure\obj\Debug\net8.0\BigonWebApp.Infrastructure.sourcelink.json
+C:\Users\Admin\source\repos\BigonWebApp\BigonWebApp.Infrastructure\bin\Debug\net8.0\BigonWebApp.Infrastructure.deps.json
+C:\Users\Admin\source\repos\BigonWebApp\BigonWebApp.Infrastructure\bin\Debug\net8.0\BigonWebApp.Infrastructure.dll
+C:\Users\Admin\source\repos\BigonWebApp\BigonWebApp.Infrastructure\bin\Debug\net8.0\BigonWebApp.Infrastructure.pdb
+C:\Users\Admin\source\repos\BigonWebApp\BigonWebApp.Infrastructure\obj\Debug\net8.0\BigonWebApp.Infrastructure.dll
+C:\Users\Admin\source\repos\BigonWebApp\BigonWebApp.Infrastructure\obj\Debug\net8.0\refint\BigonWebApp.Infrastructure.dll
+C:\Users\Admin\source\repos\BigonWebApp\BigonWebApp.Infrastructure\obj\Debug\net8.0\BigonWebApp.Infrastructure.pdb
+C:\Users\Admin\source\repos\BigonWebApp\BigonWebApp.Infrastructure\obj\Debug\net8.0\ref\BigonWebApp.Infrastructure.dll

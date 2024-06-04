@@ -9,3 +9,4 @@ C:\Users\Admin\source\repos\BigonWebApp\BigonWebApp.Business\obj\Debug\net8.0\Bi
 C:\Users\Admin\source\repos\BigonWebApp\BigonWebApp.Business\obj\Debug\net8.0\refint\BigonWebApp.Business.dll
 C:\Users\Admin\source\repos\BigonWebApp\BigonWebApp.Business\obj\Debug\net8.0\BigonWebApp.Business.pdb
 C:\Users\Admin\source\repos\BigonWebApp\BigonWebApp.Business\obj\Debug\net8.0\ref\BigonWebApp.Business.dll
+C:\Users\Admin\source\repos\BigonWebApp\BigonWebApp.Business\obj\Debug\net8.0\BigonWebApp.Business.sourcelink.json
