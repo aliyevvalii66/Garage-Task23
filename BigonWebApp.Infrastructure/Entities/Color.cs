@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace BigonWebApp.Infrastructure.Entities
 {
-    public class Color : BaseEntity<Guid>
+    public class Color : BaseEntity
     {
         public string ColorName { get; set; }
         public string HaxCode { get; set; }

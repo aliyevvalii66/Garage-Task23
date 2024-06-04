@@ -32,6 +32,8 @@
     <!-- Style.css -->
     <link rel="stylesheet" type="text/css" href="~/assetsAdmin/files/assets/css/style.css">
     <link rel="stylesheet" type="text/css" href="~/assetsAdmin/files/assets/css/jquery.mCustomScrollbar.css">
+    <link href="~/lib/sweetalert2/sweetalert2.min.css" rel="stylesheet" />
+    @RenderSection("Styles",false)
 </head>
 
 <body>
@@ -423,6 +425,8 @@
     <script src="~/assetsAdmin/files/assets/js/vartical-layout.min.js"></script>
     <script type="text/javascript" src="~/assetsAdmin/files/assets/pages/dashboard/custom-dashboard.js"></script>
     <script type="text/javascript" src="~/assetsAdmin/files/assets/js/script.min.js"></script>
+    <script src="~/lib/sweetalert2/sweetalert2.all.min.js"></script>
+    @RenderSection("sctipts",false)
 </body>
 
 

@@ -6,10 +6,9 @@ using System.Threading.Tasks;
 
 namespace BigonWebApp.Infrastructure.Commons
 {
-    public abstract class BaseEntity<Tkey>
-        where Tkey : struct
+    public abstract class BaseEntity
     {
-        public Tkey Id { get; set; }
+        public Guid Id { get; set; }
         public DateTime CreatedDate { get; set; }
         public DateTime? EditedDate { get; set; }
         public DateTime? DeletedDate { get; set; }

@@ -1,4 +1,6 @@
 ﻿using BigonWebApp.Data.Contexts;
+using BigonWebApp.Data.Repositories;
+using BigonWebApp.Infrastructure.Repositories;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -18,6 +20,8 @@ namespace BigonWebApp.Data
             {
                 opt.UseSqlServer(Configuration.ConnectionString);
             });
+
+            services.AddScoped<IColorRepository, ColorRepository>();
         }
     }
 }

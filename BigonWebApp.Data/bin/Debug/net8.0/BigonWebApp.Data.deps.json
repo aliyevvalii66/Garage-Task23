@@ -993,6 +993,9 @@
         }
       },
       "BigonWebApp.Infrastructure/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "8.0.6"
+        },
         "runtime": {
           "BigonWebApp.Infrastructure.dll": {}
         }

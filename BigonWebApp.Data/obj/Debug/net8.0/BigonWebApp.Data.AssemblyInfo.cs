@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BigonWebApp.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39489770ccf93abe70429a1063ae200f4530f8a1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e58bfd79ed17f49769a26b360e7d63f72bf8082")]
 [assembly: System.Reflection.AssemblyProductAttribute("BigonWebApp.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BigonWebApp.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

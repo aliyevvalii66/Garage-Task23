@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace BigonWebApp.Data.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20240604003245_mig_1")]
+    [Migration("20240604183056_mig_1")]
     partial class mig_1
     {
         /// <inheritdoc />

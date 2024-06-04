@@ -1,0 +1,25 @@
+﻿@using BigonWebApp.Infrastructure.Entities
+@model IEnumerable<Color>
+@{
+    foreach (var item in Model)
+    {
+        <tr>
+            <th scope="row">1</th>
+            <td>@item.ColorName</td>
+            <td>
+                <span style="background-color:@item.HaxCode" class="haxCode"></span>
+            </td>
+            <td>@item.CreatedDate</td>
+            <td>
+                <button onclick="detailColor('@item.Id')" type="button" class="btn btn-info" data-toggle="modal" data-target="#exampleModal">
+                    Detail
+                </button>
+                <a class="btn btn-warning" asp-route-id="@item.Id" asp-action="Edit" asp-controller="Colors">Edit</a>
+                <a class="btn btn-danger" onclick="deleteColor('@item.Id')">Delete</a>
+
+            </td>
+        </tr>
+    }
+}
+
+
